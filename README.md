@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vukihub, also known as Vuki.
 - 👀 I’m interested in open source projects that need small changes and document verification.
 - 🌱 I’m currently learning interesting technologies.
-- 💞️ I’m already collaborating with [areg-sdk](https://github.com/aregtech/areg-sdk).
+- 💞️ I’m already collaborating with [areg-sdk](https://github.com/aregtech/areg-sdk) and invite you also to join.
 - 📫 To reach me, please leave a message in the [discussions](https://github.com/vukihub/vukihub/discussions) and describe what exactly you expect.
 
 <!---
